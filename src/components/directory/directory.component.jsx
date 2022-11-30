@@ -14,7 +14,7 @@ const categories = [
       "id": 2,
       "title": "jackets",
       "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png",
-      route: 'shop/jacktes'
+      route: 'shop/jackets'
     },
     {
       "id": 3,
